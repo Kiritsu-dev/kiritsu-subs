@@ -1,4 +1,4 @@
-import {today} from './lib/format.js'
+import {today} from '../lib/format.js'
 
 export default function Nameplate() {
     return (
